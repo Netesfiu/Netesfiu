@@ -1,3 +1,4 @@
+
 # Hello! My name is András!
 
 ## I'm a graduated Civil Enginner.
@@ -9,12 +10,21 @@
 
 
 ### Connect with me:
+<a href="">
+<img align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/>][youtube]
-[<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>][Twitter]
-[<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][LinkedIn]
-[<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/facebook.svg"/>][Facebook]
+<a href="https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw">
+<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/FarkasA79966108">
+<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/andr%C3%A1s-farkas-6671b2152/"/>
+<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/netesfiu/">
+<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <br />
 
 ### Softwares I currently have experience with:
@@ -30,9 +40,3 @@
 <img align="left" hspace="5rem" alt="Adobe Premiere Pro" width="22px" src="https://simpleicons.org/icons/adobepremierepro.svg"/>
 <img align="left" hspace="5rem" alt="Adobe Acrobat" width="22px" src="https://simpleicons.org/icons/adobeacrobatreader.svg"/>
 <img align="left" hspace="5rem" alt="Blender" width="22px" src="https://simpleicons.org/icons/blender.svg"/>
-
-[website]: ""
-[youtube]: "https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw"
-[Twitter]: "https://twitter.com/FarkasA79966108"
-[LinkedIn]: "https://www.linkedin.com/in/andr%C3%A1s-farkas-6671b2152/"
-[Facebook]: "https://www.facebook.com/netesfiu/"
