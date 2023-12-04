@@ -1,3 +1,16 @@
-<svg fill="none" viewBox"0 0 600 400" width="600" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 400" width="600" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          * {        
+            margin: 0;
+            padding: 0;
+            color: inherit;
+            text-decoration: none;
+            list-style: none;
+            outline: none;
+            box-sizing: border-box;
+        }
+        </style>
+    </div>
     </foreignObject>
