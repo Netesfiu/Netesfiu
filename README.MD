@@ -4,7 +4,7 @@
 ## I'm a graduated Civil Enginner.
 <br />
 
-*I am unemployed at the moment.*
+I'm currently work for [Duna Group](https://www.dunaaszfalt.hu)
 
 <br />
 
@@ -19,7 +19,7 @@
 <a href="https://twitter.com/FarkasA79966108">
 <img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/andr%C3%A1s-farkas-6671b2152/"/>
+<a href="https://www.linkedin.com/in/netesfiu/">
 <img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/netesfiu/">
