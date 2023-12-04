@@ -2,7 +2,7 @@
 # Hello! My name is András!
 <style>
   #icon{
-    @medi a(prefers-color-scheme: dark){
+    @media (prefers-color-scheme: dark){
       filter: invert;
     }
   }
