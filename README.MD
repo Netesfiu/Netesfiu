@@ -34,7 +34,7 @@ I'm currently work for [Duna Group](https://www.dunaaszfalt.hu)
 <img align="left" hspace="5rem" alt="Qgis" width="22px" src="https://simpleicons.org/icons/qgis.svg"/>
 <img align="left" hspace="5rem" alt="Adobe Lightroom" width="22px" src="https://simpleicons.org/icons/adobelightroom.svg"/>
 <img align="left" hspace="5rem" alt="Adobe Illustrator" width="22px" src="https://simpleicons.org/icons/adobeillustrator.svg"/>
-<img align="left" hspace="5rem" alt="Adobe Photoshop" width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/>
+<img align="left" hspace="5rem" alt="Adobe Photoshop" width="22px" src="https://simpleicons.org/icons/adobephotoshop_white.svg"/>
 <img align="left" hspace="5rem" alt="Adobe After Effects" width="22px" src="https://simpleicons.org/icons/adobeaftereffects.svg"/>
 <img align="left" hspace="5rem" alt="Adobe After Effects" width="22px" src="https://simpleicons.org/icons/adobeaftereffects.svg"/>
 <img align="left" hspace="5rem" alt="Adobe Premiere Pro" width="22px" src="https://simpleicons.org/icons/adobepremierepro.svg"/>
