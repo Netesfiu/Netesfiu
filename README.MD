@@ -11,24 +11,34 @@ I'm currently work for [Duna Group](https://www.dunaaszfalt.hu)
 
 ### Connect with me:
 <picture>
-<a href="">
-<img align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <a href="">
+  <img align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </picture>
 <picture>
-<a href="https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw">
-<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <a href="https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw">
+  <img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </picture>
 <picture>
-<a href="https://twitter.com/FarkasA79966108">
-<img align="left" hspace="5rem" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <a href="https://twitter.com/FarkasA79966108">
+  <img align="left" hspace="5rem" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </picture>
 <picture>
-<a href="https://www.linkedin.com/in/netesfiu/">
-<img align="left" hspace="5rem" alt="Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <a href="https://www.linkedin.com/in/netesfiu/">
+  <img align="left" hspace="5rem" alt="Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </picture>
 <picture>
-<a href="https://www.facebook.com/netesfiu/">
-<img align="left" hspace="5rem" alt="Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <a href="https://www.facebook.com/netesfiu/">
+  <img align="left" hspace="5rem" alt="Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </picture>
 <br />
 
