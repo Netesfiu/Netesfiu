@@ -13,19 +13,19 @@ I'm currently maintaining a Home Assistant server for my family and also experim
 
 ### Connect with me:
 <a href="">
-<svg align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw">
-<svg media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://twitter.com/FarkasA79966108">
-<svg media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/netesfiu/">
-<svg media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/netesfiu/">
-<svg media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img media="(prefers-color-scheme: dark)" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
