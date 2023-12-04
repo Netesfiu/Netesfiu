@@ -3,7 +3,7 @@
 <style>
   #icon{
     @media (prefers-color-scheme: dark){
-      filter: invert;
+      filter: invert(1);
     }
   }
 </style>
