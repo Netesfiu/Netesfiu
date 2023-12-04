@@ -10,21 +10,26 @@ I'm currently work for [Duna Group](https://www.dunaaszfalt.hu)
 
 
 ### Connect with me:
+<picture>
 <a href="">
 <img align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+</picture>
+<picture>
 <a href="https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw">
 <img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+</picture>
+<picture>
 <a href="https://twitter.com/FarkasA79966108">
-<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img align="left" hspace="5rem" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</picture>
+<picture>
 <a href="https://www.linkedin.com/in/netesfiu/">
-<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img align="left" hspace="5rem" alt="Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</picture>
+<picture>
 <a href="https://www.facebook.com/netesfiu/">
-<img align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img align="left" hspace="5rem" alt="Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</picture>
 <br />
 
 ### Softwares I currently have experience with:
