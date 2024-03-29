@@ -1,12 +1,6 @@
 
 # Hello! My name is András!
-<style>
-  #icon{
-    @media (prefers-color-scheme: dark){
-      filter: invert(1);
-    }
-  }
-</style>
+
 ## I'm a graduated Civil Enginner.
 <br />
 
