@@ -10,10 +10,11 @@ I'm currently work for [Duna Group](https://www.dunaaszfalt.hu) as an EHS Coordi
 I'm currently maintaining a Home Assistant server for my family and also experimenting with automation blueprints. You can find my blueprints [here](https://github.com/Netesfiu/Netesfiu-blueprints-HA).
 
 <br />
-
+<div style="text-align: justify">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&bg_color=00000000&layout=compact&locale=HU&hide_border=true)
 <br />
 ![Netesfiu's Github stats](https://github-readme-stats.vercel.app/api?username=Netesfiu&show_icons=true&bg_color=00000000&locale=HU&hide_border=true)
+</div>
 
 ### Softwares I currently have experience with:
 
