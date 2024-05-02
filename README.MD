@@ -1,3 +1,8 @@
+Read in other language: 
+<kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">](Netesfiu/README.hu.md)</kbd> 
+<kbd> [<img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](Netesfiu/README.en.md)</kbd>
+
+<br /><br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=C,B,A,S,SS,SSS)]()
 
 # Hello! My name is András!
