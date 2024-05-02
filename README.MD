@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # Hello! My name is András!
 
