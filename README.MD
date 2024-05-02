@@ -20,7 +20,7 @@ I'm currently maintaining a Home Assistant server for my family and also experim
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&theme=light&bg_color=00000000&layout=compact&locale=HU&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Netesfiu&show_icons=true"/>
 </picture>
 <picture>
   <source
