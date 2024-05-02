@@ -11,7 +11,8 @@ I'm currently maintaining a Home Assistant server for my family and also experim
 
 <br />
 
-[![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&hide_progress=true)
+<br />
 ![Netesfiu's Github stats](https://github-readme-stats.vercel.app/api?username=Netesfiu&show_icons=true&bg_color=00000000)
 
 ### Softwares I currently have experience with:
