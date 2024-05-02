@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=C,B,A,S,SS,SSS)[#]]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=C,B,A,S,SS,SSS)](#)
 
 # Hello! My name is András!
 
