@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=C,B,A,S,SS,SSS)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=C,B,A,S,SS,SSS)]()
 
 # Hello! My name is András!
 
@@ -11,7 +11,8 @@ I'm currently maintaining a Home Assistant server for my family and also experim
 
 <br />
 
-[![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu)](#)
+[![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu)]()
+![Netesfiu's Github stats](https://github-readme-stats.vercel.app/api?username=Netesfiu&show_icons=true&bg_color=00000000)
 
 ### Softwares I currently have experience with:
 
