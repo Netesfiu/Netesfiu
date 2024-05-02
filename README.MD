@@ -1,6 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-"UNKNOWN")]
+![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=C,B,A,S,SS,SSS)
 
-[![img](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF)]
 # Hello! My name is András!
 
 ## I'm a graduated Civil Enginner.
@@ -12,24 +11,7 @@ I'm currently maintaining a Home Assistant server for my family and also experim
 
 <br />
 
-
-### Connect with me:
-<a href="">
-<img id="icon" align="left" hspace="5rem" alt="Website is under construction" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/channel/UCoiAO8DLWewc7oI0aXCGrhw">
-<img id="icon" align="left" hspace="5rem" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/FarkasA79966108">
-<img id="icon" align="left" hspace="5rem" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/netesfiu/">
-<img id="icon" align="left" hspace="5rem" alt="Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/netesfiu/">
-<img id="icon" align="left" hspace="5rem" alt="Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br />
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF)
 
 ### Softwares I currently have experience with:
 
