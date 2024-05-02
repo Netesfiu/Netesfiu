@@ -10,7 +10,6 @@ I'm currently work for [Duna Group](https://www.dunaaszfalt.hu) as an EHS Coordi
 I'm currently maintaining a Home Assistant server for my family and also experimenting with automation blueprints. You can find my blueprints [here](https://github.com/Netesfiu/Netesfiu-blueprints-HA).
 
 <br />
-<div style="text-align:justify">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&theme=dark&bg_color=00000000&layout=compact&locale=HU&hide_border=true"
@@ -33,7 +32,6 @@ I'm currently maintaining a Home Assistant server for my family and also experim
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-</div>
 
 ### Softwares I currently have experience with:
 
