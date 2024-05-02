@@ -24,7 +24,7 @@ I'm currently maintaining a Home Assistant server for my family and also experim
 <br />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Netesfiu&theme=dark&bg_color=00000000&layout=compact&locale=HU&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Netesfiu&theme=dark&bg_color=00000000&layout=compact&locale=HU&hide_border=true&text_color=3572a5"
     media="(prefers-color-scheme: dark)"
   />
   <source
