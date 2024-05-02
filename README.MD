@@ -13,14 +13,14 @@ I'm currently maintaining a Home Assistant server for my family and also experim
 <div style="text-align:justify">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&bg_color=00000000&layout=compact&locale=HU&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&theme=dark&bg_color=00000000&layout=compact&locale=HU&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&theme=light&layout=compact&locale=HU&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&theme=light&bg_color=00000000&layout=compact&locale=HU&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
 </picture>
 <picture>
   <source
@@ -33,8 +33,6 @@ I'm currently maintaining a Home Assistant server for my family and also experim
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesfiu&bg_color=00000000&layout=compact&locale=HU&hide_border=true)
-
 </div>
 
 ### Softwares I currently have experience with:
