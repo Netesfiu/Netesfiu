@@ -1,6 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-"UNKNOWN")](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Netesfiu&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-"UNKNOWN")]
 
-
+[![img](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF)]
 # Hello! My name is András!
 
 ## I'm a graduated Civil Enginner.
